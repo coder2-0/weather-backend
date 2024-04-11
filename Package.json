@@ -1,0 +1,14 @@
+{
+    "name": "Jashanpreet Kaur",
+    "version": "1.0.0",
+    "description": "this is assignment",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jashanpreet Kaur",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
